@@ -1,2 +1,2 @@
 # recipes-list
-The following project is a recipe list website using HTML only. 
+This is a HTML only website to test and understand HTML.
